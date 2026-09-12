@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Dominal Technology Jobs - Job Scraper & WhatsApp Dashboard</title>
+  <meta name="description" content="Dominal Technology Jobs progressive web app for automated job scraping, domain categorization, and streamlined WhatsApp sharing.">
+  <meta name="theme-color" content="#0A2A5E">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Dominal Jobs">
+  
+  <!-- Favicons and PWA Manifest -->
+  <link rel="manifest" href="./manifest.json">
+  <link rel="icon" type="image/svg+xml" href="./icons/logo.svg">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+
+  <!-- ==========================================================================
+       SVG Symbol Definitions (Inline reusable icons - strictly zero emojis)
+       ========================================================================== -->
+  <svg style="display: none;" xmlns="http://www.w3.org/2000/svg">
+    <!-- Menu Hamburger -->
+    <symbol id="icon-menu" viewBox="0 0 24 24">
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </symbol>
+    <!-- Close X -->
+    <symbol id="icon-close" viewBox="0 0 24 24">
+      <line x1="18" y1="6" x2="6" y2="18"></line>
+      <line x1="6" y1="6" x2="18" y2="18"></line>
+    </symbol>
+    <!-- Home -->
+    <symbol id="icon-home" viewBox="0 0 24 24">
+      <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+      <polyline points="9 22 9 12 15 12 15 22"></polyline>
+    </symbol>
+    <!-- Categories Grid / List -->
+    <symbol id="icon-grid" viewBox="0 0 24 24">
+      <rect x="3" y="3" width="7" height="7"></rect>
+      <rect x="14" y="3" width="7" height="7"></rect>
+      <rect x="14" y="14" width="7" height="7"></rect>
+      <rect x="3" y="14" width="7" height="7"></rect>
+    </symbol>
+    <!-- Activity / Clock -->
+    <symbol id="icon-clock" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="10"></circle>
+      <polyline points="12 6 12 12 16 14"></polyline>
+    </symbol>
+    <!-- Settings Gear -->
+    <symbol id="icon-gear" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="3"></circle>
+      <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+    </symbol>
+    <!-- Share to WhatsApp -->
+    <symbol id="icon-share" viewBox="0 0 24 24">
+      <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
+      <polyline points="16 6 12 2 8 6"></polyline>
+      <line x1="12" y1="2" x2="12" y2="15"></line>
+    </symbol>
+    <!-- Checkmark Circle -->
+    <symbol id="icon-check-circle" viewBox="0 0 24 24">
+      <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+      <polyline points="22 4 12 14.01 9 11.01"></polyline>
+    </symbol>
+    <!-- Checkmark Plain -->
+    <symbol id="icon-check" viewBox="0 0 24 24">
+      <polyline points="20 6 9 17 4 12"></polyline>
+    </symbol>
+    <!-- Download / Install -->
+    <symbol id="icon-download" viewBox="0 0 24 24">
+      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+      <polyline points="7 10 12 15 17 10"></polyline>
+      <line x1="12" y1="15" x2="12" y2="3"></line>
+    </symbol>
+    <!-- Edit / Pencil -->
+    <symbol id="icon-edit" viewBox="0 0 24 24">
+      <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path>
+      <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path>
+    </symbol>
+    <!-- Warning Triangle -->
+    <symbol id="icon-warning" viewBox="0 0 24 24">
+      <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+      <line x1="12" y1="9" x2="12" y2="13"></line>
+      <line x1="12" y1="17" x2="12.01" y2="17"></line>
+    </symbol>
+    <!-- Location Pin -->
+    <symbol id="icon-map-pin" viewBox="0 0 24 24">
+      <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+      <circle cx="12" cy="10" r="3"></circle>
+    </symbol>
+    <!-- Company / Building -->
+    <symbol id="icon-building" viewBox="0 0 24 24">
+      <rect x="4" y="2" width="16" height="20" rx="2" ry="2"></rect>
+      <line x1="9" y1="22" x2="9" y2="22.01"></line>
+      <line x1="15" y1="22" x2="15" y2="22.01"></line>
+      <line x1="8" y1="6" x2="8.01" y2="6"></line>
+      <line x1="16" y1="6" x2="16.01" y2="6"></line>
+      <line x1="8" y1="10" x2="8.01" y2="10"></line>
+      <line x1="16" y1="10" x2="16.01" y2="10"></line>
+      <line x1="8" y1="14" x2="8.01" y2="14"></line>
+      <line x1="16" y1="14" x2="16.01" y2="14"></line>
+    </symbol>
+    <!-- Briefcase (Non-IT / General) -->
+    <symbol id="icon-briefcase" viewBox="0 0 24 24">
+      <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+      <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+    </symbol>
+    <!-- Code / IT -->
+    <symbol id="icon-code" viewBox="0 0 24 24">
+      <polyline points="16 18 22 12 16 6"></polyline>
+      <polyline points="8 6 2 12 8 18"></polyline>
+    </symbol>
+    <!-- CPU / AI -->
+    <symbol id="icon-cpu" viewBox="0 0 24 24">
+      <rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect>
+      <rect x="9" y="9" width="6" height="6"></rect>
+      <line x1="9" y1="1" x2="9" y2="4"></line>
+      <line x1="15" y1="1" x2="15" y2="4"></line>
+      <line x1="9" y1="20" x2="9" y2="23"></line>
+      <line x1="15" y1="20" x2="15" y2="23"></line>
+      <line x1="20" y1="9" x2="23" y2="9"></line>
+      <line x1="20" y1="14" x2="23" y2="14"></line>
+      <line x1="1" y1="9" x2="4" y2="9"></line>
+      <line x1="1" y1="14" x2="4" y2="14"></line>
+    </symbol>
+    <!-- Server / DevOps -->
+    <symbol id="icon-server" viewBox="0 0 24 24">
+      <rect x="2" y="2" width="20" height="8" rx="2" ry="2"></rect>
+      <rect x="2" y="14" width="20" height="8" rx="2" ry="2"></rect>
+      <line x1="6" y1="6" x2="6.01" y2="6"></line>
+      <line x1="6" y1="18" x2="6.01" y2="18"></line>
+    </symbol>
+    <!-- Lightning / Electrical -->
+    <symbol id="icon-lightning" viewBox="0 0 24 24">
+      <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+    </symbol>
+    <!-- Chart / Sales -->
+    <symbol id="icon-chart" viewBox="0 0 24 24">
+      <line x1="18" y1="20" x2="18" y2="10"></line>
+      <line x1="12" y1="20" x2="12" y2="4"></line>
+      <line x1="6" y1="20" x2="6" y2="14"></line>
+    </symbol>
+    <!-- Wrench / Mechanical -->
+    <symbol id="icon-wrench" viewBox="0 0 24 24">
+      <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path>
+    </symbol>
+    <!-- Refresh -->
+    <symbol id="icon-refresh" viewBox="0 0 24 24">
+      <polyline points="23 4 23 10 17 10"></polyline>
+      <polyline points="1 20 1 14 7 14"></polyline>
+      <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path>
+    </symbol>
+    <!-- Search -->
+    <symbol id="icon-search" viewBox="0 0 24 24">
+      <circle cx="11" cy="11" r="8"></circle>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+    </symbol>
+    <!-- External Link -->
+    <symbol id="icon-external-link" viewBox="0 0 24 24">
+      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+      <polyline points="15 3 21 3 21 9"></polyline>
+      <line x1="10" y1="14" x2="21" y2="3"></line>
+    </symbol>
+    <!-- Trash / Delete -->
+    <symbol id="icon-trash" viewBox="0 0 24 24">
+      <polyline points="3 6 5 6 21 6"></polyline>
+      <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+    </symbol>
+    <!-- Info -->
+    <symbol id="icon-info" viewBox="0 0 24 24">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="12" y1="16" x2="12" y2="12"></line>
+      <line x1="12" y1="8" x2="12.01" y2="8"></line>
+    </symbol>
+  </svg>
+
+  <!-- ==========================================================================
+       Fixed Top Header Bar (Identical across all views)
+       ========================================================================== -->
+  <header class="top-header" role="banner">
+    <div class="header-left">
+      <button class="btn-icon-header" id="btn-open-drawer" aria-label="Open Navigation Menu">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-menu"></use></svg>
+      </button>
+      <a href="#home" class="header-brand" data-view="home">
+        <div class="header-logo-mark">
+          <img src="./icons/logo.svg" alt="Dominal Logo" width="26" height="26">
+        </div>
+        <div class="header-title-group">
+          <h1>Dominal Technology</h1>
+          <span>Job Dashboard</span>
+        </div>
+      </a>
+    </div>
+    <div class="header-right">
+      <button class="btn-icon-header btn-refresh-data" title="Refresh Listings" aria-label="Refresh Listings">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-refresh"></use></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ==========================================================================
+       Slide-out Navigation Drawer
+       ========================================================================== -->
+  <div class="drawer-backdrop" id="drawer-backdrop"></div>
+  <aside class="drawer-content" id="drawer-content" role="dialog" aria-label="Navigation Drawer">
+    <div class="drawer-header">
+      <div class="drawer-brand">
+        <div class="drawer-logo-mark">
+          <img src="./icons/logo.svg" alt="Dominal Logo" width="38" height="38">
+        </div>
+        <h2>Dominal Technology</h2>
+        <p>Curated Jobs & WhatsApp Sharing PWA</p>
+      </div>
+      <button class="btn-close-drawer" id="btn-close-drawer" aria-label="Close Drawer">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-close"></use></svg>
+      </button>
+    </div>
+
+    <nav class="drawer-nav">
+      <span class="drawer-section-title">Main Navigation</span>
+      
+      <button class="drawer-link active" data-view="home">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-home"></use></svg>
+        <span>Home / Feed</span>
+      </button>
+
+      <button class="drawer-link" data-view="categories">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-grid"></use></svg>
+        <span>Categories & Domains</span>
+      </button>
+
+      <button class="drawer-link" data-view="activity">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-clock"></use></svg>
+        <span>Activity / Sent Log</span>
+      </button>
+
+      <button class="drawer-link" data-view="settings">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-gear"></use></svg>
+        <span>Settings & Install</span>
+      </button>
+
+      <div class="drawer-divider"></div>
+      <span class="drawer-section-title">Quick Actions</span>
+
+      <button class="drawer-link btn-refresh-data">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-refresh"></use></svg>
+        <span>Refresh Jobs Data</span>
+      </button>
+
+      <button class="drawer-link btn-clear-cache">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-trash"></use></svg>
+        <span>Clear Offline Cache</span>
+      </button>
+
+      <button class="drawer-link" id="btn-open-about">
+        <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-info"></use></svg>
+        <span>About Dominal Jobs</span>
+      </button>
+    </nav>
+
+    <div class="drawer-footer">
+      <span>Version 1.0.0 (PWA)</span>
+      <span>Dominal Tech</span>
+    </div>
+  </aside>
+
+  <!-- ==========================================================================
+       Main Viewport (SPA View Switcher)
+       ========================================================================== -->
+  <main class="main-viewport" id="main-viewport">
+
+    <!-- VIEW 1: HOME / FEED -->
+    <section class="view-section active-view" id="view-home">
+      <div class="search-filter-box">
+        <div class="search-input-wrapper">
+          <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-search"></use></svg>
+          <input type="text" id="input-job-search" class="input-search" placeholder="Search by role, company, city, skills..." autocomplete="off">
+          <button class="btn-clear-search" id="btn-clear-search" aria-label="Clear Search">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-close"></use></svg>
+          </button>
+        </div>
+
+        <div class="filter-pills-row" role="tablist" aria-label="Category Filters">
+          <button class="filter-pill active" data-filter="all">All Jobs</button>
+          <button class="filter-pill" data-filter="it">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-code"></use></svg>
+            <span>IT Roles</span>
+          </button>
+          <button class="filter-pill" data-filter="non-it">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-briefcase"></use></svg>
+            <span>Non-IT</span>
+          </button>
+          <button class="filter-pill" data-filter="electrical">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-lightning"></use></svg>
+            <span>Electrical</span>
+          </button>
+          <button class="filter-pill" data-filter="sales">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-chart"></use></svg>
+            <span>Sales</span>
+          </button>
+          <button class="filter-pill" data-filter="other">Other</button>
+        </div>
+      </div>
+
+      <div class="feed-summary-bar">
+        <span class="feed-count-text" id="feed-count-display">Loading Jobs...</span>
+        <div class="feed-sync-indicator">
+          <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-clock"></use></svg>
+          <span>Scraper Sync: Active</span>
+        </div>
+      </div>
+
+      <!-- Feed Cards Container -->
+      <div class="job-feed-list" id="job-feed-list">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+    <!-- VIEW 2: CATEGORIES & DOMAINS -->
+    <section class="view-section" id="view-categories">
+      <div class="section-header">
+        <h2>Job Categories</h2>
+        <p>Rule-based sorting across technology and non-technology domains.</p>
+      </div>
+
+      <div class="categories-grid">
+        <div class="category-stat-card" onclick="App.filterByPrimaryCategory('all')">
+          <div class="cat-stat-icon-box">
+            <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-grid"></use></svg>
+          </div>
+          <span class="cat-stat-title">All Openings</span>
+          <span class="cat-stat-count" id="stat-total-count">0</span>
+        </div>
+
+        <div class="category-stat-card" onclick="App.filterByPrimaryCategory('it')">
+          <div class="cat-stat-icon-box">
+            <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-code"></use></svg>
+          </div>
+          <span class="cat-stat-title">IT & Tech</span>
+          <span class="cat-stat-count" id="stat-it-count">0</span>
+        </div>
+
+        <div class="category-stat-card" onclick="App.filterByPrimaryCategory('non-it')">
+          <div class="cat-stat-icon-box">
+            <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-briefcase"></use></svg>
+          </div>
+          <span class="cat-stat-title">Non-IT Domains</span>
+          <span class="cat-stat-count" id="stat-non-it-count">0</span>
+        </div>
+
+        <div class="category-stat-card" onclick="App.filterByPrimaryCategory('other')">
+          <div class="cat-stat-icon-box">
+            <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-info"></use></svg>
+          </div>
+          <span class="cat-stat-title">Other Classified</span>
+          <span class="cat-stat-count" id="stat-other-count">0</span>
+        </div>
+      </div>
+
+      <div class="category-breakdown-section">
+        <h3 style="font-size: 1.05rem; font-weight: 800; color: var(--accent-blue); margin-bottom: 12px;">
+          Subdomain Breakdowns
+        </h3>
+        <div id="subcategory-breakdown-list">
+          <!-- Rendered dynamically by app.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- VIEW 3: ACTIVITY / SENT LOG -->
+    <section class="view-section" id="view-activity">
+      <div class="activity-header-actions">
+        <div class="section-header" style="margin-bottom: 0;">
+          <h2>Sent Activity Log</h2>
+          <p>History of job postings shared to WhatsApp.</p>
+        </div>
+        <button class="btn-secondary" onclick="if(confirm('Clear all sent history logs?')) WhatsAppManager.clearSentLog();">
+          <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-trash"></use></svg>
+          <span>Clear History</span>
+        </button>
+      </div>
+
+      <div class="activity-list" id="activity-log-list" style="margin-top: 16px;">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </section>
+
+    <!-- VIEW 4: SETTINGS & INSTALLATION -->
+    <section class="view-section" id="view-settings">
+      <div class="section-header">
+        <h2>Settings & Setup</h2>
+        <p>Manage WhatsApp dispatch parameters and PWA native installation.</p>
+      </div>
+
+      <!-- PWA Installation Box -->
+      <div class="settings-group">
+        <div class="settings-group-title">
+          <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-download"></use></svg>
+          <span>Install Progressive Web App</span>
+        </div>
+        <p class="settings-group-desc" id="pwa-install-status">
+          Install Dominal Jobs on your home screen for quick offline access and native app feel.
+        </p>
+        <button class="btn-primary" id="btn-pwa-install">
+          <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-download"></use></svg>
+          <span>Download / Install App</span>
+        </button>
+      </div>
+
+      <!-- WhatsApp Dispatch Settings -->
+      <div class="settings-group">
+        <div class="settings-group-title">
+          <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-share"></use></svg>
+          <span>WhatsApp Share Destination</span>
+        </div>
+        <p class="settings-group-desc">
+          Clicking "Share to WhatsApp" pre-fills this number with your customized template. You then manually forward the message to the Dominal Technology Jobs group.
+        </p>
+
+        <div class="form-field">
+          <label class="form-label" for="setting-wa-phone">WhatsApp Number (with Country Code)</label>
+          <input type="text" id="setting-wa-phone" class="form-input" placeholder="918766882442" value="918766882442">
+          <span style="font-size: 0.74rem; color: var(--text-light); margin-top: 4px; display: block;">Default configured destination: 918766882442</span>
+        </div>
+
+        <div class="form-field">
+          <label class="form-label" for="setting-wa-signature">Signature Line</label>
+          <input type="text" id="setting-wa-signature" class="form-input" placeholder="Dominal Technology Jobs" value="Dominal Technology Jobs">
+        </div>
+
+        <div class="form-field">
+          <label class="form-label" for="setting-wa-template">Message Template (Plain Text - No Emojis)</label>
+          <textarea id="setting-wa-template" class="form-textarea" spellcheck="false"></textarea>
+          
+          <div class="template-tokens-help">
+            <span style="font-size: 0.76rem; font-weight: 700; width: 100%; margin-bottom: 2px;">Insert dynamic placeholders:</span>
+            <span class="token-badge" data-token="{company}">+ {company}</span>
+            <span class="token-badge" data-token="{job_title}">+ {job_title}</span>
+            <span class="token-badge" data-token="{location}">+ {location}</span>
+            <span class="token-badge" data-token="{job_type}">+ {job_type}</span>
+            <span class="token-badge" data-token="{job_link}">+ {job_link}</span>
+            <span class="token-badge" data-token="{signature}">+ {signature}</span>
+          </div>
+          <span style="font-size: 0.74rem; color: var(--text-light); margin-top: 8px; display: block;">Note: Any line with an empty or missing field is automatically omitted from the message.</span>
+        </div>
+
+        <!-- Real-time Live Preview -->
+        <div class="live-preview-box">
+          <div class="live-preview-header">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-share"></use></svg>
+            <span>Live WhatsApp Message Preview</span>
+          </div>
+          <div class="live-preview-text" id="settings-live-preview"></div>
+        </div>
+
+        <div class="settings-btn-row">
+          <button class="btn-primary" id="btn-save-settings">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-check"></use></svg>
+            <span>Save Settings</span>
+          </button>
+          <button class="btn-secondary" id="btn-reset-settings">
+            <svg class="svg-icon svg-icon-sm" viewBox="0 0 24 24"><use href="#icon-refresh"></use></svg>
+            <span>Reset Defaults</span>
+          </button>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==========================================================================
+       Fixed Bottom Taskbar (4 Core Sections)
+       ========================================================================== -->
+  <nav class="bottom-taskbar" role="navigation" aria-label="Bottom Taskbar Navigation">
+    <button class="taskbar-item active" data-view="home" aria-label="Home Feed">
+      <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-home"></use></svg>
+      <span class="taskbar-label">Feed</span>
+    </button>
+
+    <button class="taskbar-item" data-view="categories" aria-label="Categories">
+      <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-grid"></use></svg>
+      <span class="taskbar-label">Categories</span>
+    </button>
+
+    <button class="taskbar-item" data-view="activity" aria-label="Sent Activity">
+      <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-clock"></use></svg>
+      <span class="taskbar-label">Sent Log</span>
+      <span class="taskbar-badge" id="taskbar-activity-badge" style="display: none;">0</span>
+    </button>
+
+    <button class="taskbar-item" data-view="settings" aria-label="Settings">
+      <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-gear"></use></svg>
+      <span class="taskbar-label">Settings</span>
+    </button>
+  </nav>
+
+  <!-- ==========================================================================
+       Modals
+       ========================================================================== -->
+  
+  <!-- About Modal -->
+  <div class="modal-overlay" id="modal-about" role="dialog" aria-modal="true" aria-labelledby="about-title">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="about-title">About Dominal Technology Jobs</h3>
+        <button class="btn-close-drawer" id="btn-close-about" aria-label="Close modal">
+          <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-close"></use></svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p><strong>Dominal Technology Jobs</strong> is an automated progressive web application built to streamline job discovery, rule-based role classification, and verified WhatsApp distribution.</p>
+        <br>
+        <p><strong>Key Highlights:</strong></p>
+        <ul style="padding-left: 20px; margin-top: 6px; display: flex; flex-direction: column; gap: 4px;">
+          <li>Automated JobSpy web scraper running every 2 hours.</li>
+          <li>Deterministic rule-based sorting into IT, Non-IT, Electrical, and Sales.</li>
+          <li>1-Click WhatsApp pre-filled message generation.</li>
+          <li>Network-first caching PWA with seamless background updates.</li>
+          <li>Zero emojis policy across UI and templates.</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button class="btn-primary" onclick="document.getElementById('modal-about').classList.remove('is-open');">
+          <span>Close</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- iOS Install Instructions Modal -->
+  <div class="modal-overlay" id="modal-ios-install" role="dialog" aria-modal="true" aria-labelledby="ios-title">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="ios-title">Install on iOS (Apple Safari)</h3>
+        <button class="btn-close-drawer" id="btn-close-ios" aria-label="Close modal">
+          <svg class="svg-icon" viewBox="0 0 24 24"><use href="#icon-close"></use></svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Follow these quick steps to add Dominal Jobs to your iPhone or iPad home screen:</p>
+        <ol>
+          <li>Open this website in <strong>Apple Safari</strong>.</li>
+          <li>Tap the <strong>Share</strong> icon in the bottom Safari toolbar (the box with an upward arrow).</li>
+          <li>Scroll down the share sheet and select <strong>Add to Home Screen</strong>.</li>
+          <li>Tap <strong>Add</strong> in the top right corner.</li>
+        </ol>
+      </div>
+      <div class="modal-footer">
+        <button class="btn-primary" onclick="document.getElementById('modal-ios-install').classList.remove('is-open');">
+          <span>Understood</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Container -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <!-- Application Scripts -->
+  <script src="./js/sorter.js"></script>
+  <script src="./js/whatsapp.js"></script>
+  <script src="./js/sw-register.js"></script>
+  <script src="./js/app.js"></script>
+
+</body>
+</html>
