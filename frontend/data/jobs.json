@@ -1,6 +1,6 @@
 [
   {
-    "id": "job-dca6ec27",
+    "id": "job-5ae68e06",
     "title": "Software Engineer II",
     "company": "Mastercard",
     "location": "Pune Division, Maharashtra, India",
@@ -12,7 +12,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466912757"
   },
   {
-    "id": "job-7da43e7f",
+    "id": "job-8ef4c966",
     "title": "Software Engineer",
     "company": "GE Vernova",
     "location": "Bengaluru, Karnataka, India",
@@ -24,7 +24,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4469146208"
   },
   {
-    "id": "job-17f4a5ab",
+    "id": "job-846d00b7",
     "title": "Senior Engineer, Software Development",
     "company": "Landis+Gyr",
     "location": "Noida, Uttar Pradesh, India",
@@ -36,7 +36,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4467844466"
   },
   {
-    "id": "job-94dfb4dc",
+    "id": "job-ada0e570",
     "title": "Business Development Executive - B2B sales",
     "company": "RENGY",
     "location": "Khammam, Telangana, India",
@@ -48,7 +48,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466684740"
   },
   {
-    "id": "job-a85d5576",
+    "id": "job-deaf3747",
     "title": "Backend Engineer - Distributed Systems (India)",
     "company": "Onehouse",
     "location": "India",
@@ -60,7 +60,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4255527098"
   },
   {
-    "id": "job-0b5d06c0",
+    "id": "job-d73a7e8d",
     "title": "Software Engineer I - DaWinci (Hybrid Work Model)",
     "company": "Quorum Software",
     "location": "Pune Division, Maharashtra, India",
@@ -72,7 +72,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4438416384"
   },
   {
-    "id": "job-40ca86c4",
+    "id": "job-c50ca2c4",
     "title": "Field Sales Executive",
     "company": "Dzone India Software",
     "location": "Jaipur, Rajasthan, India",
@@ -84,7 +84,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466688489"
   },
   {
-    "id": "job-f763f8d3",
+    "id": "job-668561c5",
     "title": "Field Sales Executive",
     "company": "Mettle Tech",
     "location": "Kolkata, West Bengal, India",
@@ -96,7 +96,19 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466682293"
   },
   {
-    "id": "job-258da96f",
+    "id": "job-cf247be4",
+    "title": "Flutter Developer",
+    "company": "ZOOP",
+    "location": "Pune Division, Maharashtra, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4466693629"
+  },
+  {
+    "id": "job-4790ab9c",
     "title": "Software Engineer",
     "company": "Paisabazaar",
     "location": "Gurugram, Haryana, India",
@@ -108,7 +120,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466652945"
   },
   {
-    "id": "job-f9f2c805",
+    "id": "job-e4deb019",
     "title": "Software Engineer II (Dot Net+ Palantir/ AI)(5-8 years experience Required)",
     "company": "General Mills",
     "location": "India",
@@ -118,6 +130,174 @@
     "posted_date": "Recently",
     "description": "",
     "job_link": "https://www.linkedin.com/jobs/view/4449744416"
+  },
+  {
+    "id": "job-96057601",
+    "title": "Territory Manager - Sales (Power)",
+    "company": "Legrand",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468801783"
+  },
+  {
+    "id": "job-91cd5b24",
+    "title": "Sales Executive",
+    "company": "AL MAYAR ELECTRIC",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468357452"
+  },
+  {
+    "id": "job-9950b108",
+    "title": "sales executive - Thrissur",
+    "company": "ELECTRICBUY",
+    "location": "Thrissur, Kerala, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4467197240"
+  },
+  {
+    "id": "job-32422dba",
+    "title": "Software Development Engineer III -Backend",
+    "company": "Meesho",
+    "location": "Bengaluru, Karnataka, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4459802218"
+  },
+  {
+    "id": "job-4aa29a80",
+    "title": "Business Development Executive",
+    "company": "Kapdee Tech Group",
+    "location": "Surat, Gujarat, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4466249368"
+  },
+  {
+    "id": "job-e89cfc7d",
+    "title": "Sales Engineer - Wire & Cable Division",
+    "company": "EMDERS INDIA PRIVATE LIMITED",
+    "location": "India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4466854233"
+  },
+  {
+    "id": "job-8fee06ca",
+    "title": "(IND) Software Engineer III",
+    "company": "Walmart Global Tech India",
+    "location": "Bengaluru, Karnataka, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4418728636"
+  },
+  {
+    "id": "job-24352e5b",
+    "title": "Sales Executive",
+    "company": "Som Energy Systems",
+    "location": "Vadodara, Gujarat, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468409430"
+  },
+  {
+    "id": "job-7494b3f9",
+    "title": "Sales Specialist - Sales",
+    "company": "GE Vernova",
+    "location": "India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4459652890"
+  },
+  {
+    "id": "job-c3cb6c8c",
+    "title": "Engineer - Software",
+    "company": "Eaton",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4429886103"
+  },
+  {
+    "id": "job-44c371ac",
+    "title": "Field Sales Executive (B2C) - Udaipur",
+    "company": "Solarium Green Energy Limited",
+    "location": "Udaipur, Rajasthan, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468097075"
+  },
+  {
+    "id": "job-c1f6a358",
+    "title": "Solar Sales Executive",
+    "company": "Blue Horn Technologies",
+    "location": "India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4303878164"
+  },
+  {
+    "id": "job-dff9fba0",
+    "title": "Business Development Executive",
+    "company": "Codequery Technology",
+    "location": "Patna, Bihar, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4466960756"
+  },
+  {
+    "id": "job-b6bfd97b",
+    "title": "Field Sales Executive",
+    "company": "IECHM Technology Private Limited",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4466982225"
   },
   {
     "id": "job-5f3a7e95",
@@ -132,66 +312,6 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466677987"
   },
   {
-    "id": "job-5e21eafb",
-    "title": "Territory Manager - Sales (Power)",
-    "company": "Legrand",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4468801783"
-  },
-  {
-    "id": "job-83ba3427",
-    "title": "Sales Executive",
-    "company": "AL MAYAR ELECTRIC",
-    "location": "Chennai, Tamil Nadu, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4468357452"
-  },
-  {
-    "id": "job-889cac77",
-    "title": "sales executive - Thrissur",
-    "company": "ELECTRICBUY",
-    "location": "Thrissur, Kerala, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4467197240"
-  },
-  {
-    "id": "job-ca0f80fd",
-    "title": "Software Development Engineer III -Backend",
-    "company": "Meesho",
-    "location": "Bengaluru, Karnataka, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4459802218"
-  },
-  {
-    "id": "job-e373a5ad",
-    "title": "Business Development Executive",
-    "company": "Kapdee Tech Group",
-    "location": "Surat, Gujarat, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4466249368"
-  },
-  {
     "id": "job-f27d2a23",
     "title": "Software Engineer",
     "company": "KOHLER India",
@@ -202,102 +322,6 @@
     "posted_date": "Recently",
     "description": "",
     "job_link": "https://www.linkedin.com/jobs/view/4467173610"
-  },
-  {
-    "id": "job-19d430dd",
-    "title": "Sales Engineer - Wire & Cable Division",
-    "company": "EMDERS INDIA PRIVATE LIMITED",
-    "location": "India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4466854233"
-  },
-  {
-    "id": "job-957b7ec0",
-    "title": "(IND) Software Engineer III",
-    "company": "Walmart Global Tech India",
-    "location": "Bengaluru, Karnataka, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4418728636"
-  },
-  {
-    "id": "job-692acb2b",
-    "title": "Sales Specialist - Sales",
-    "company": "GE Vernova",
-    "location": "India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4459652890"
-  },
-  {
-    "id": "job-f1f3a4cf",
-    "title": "Engineer - Software",
-    "company": "Eaton",
-    "location": "Chennai, Tamil Nadu, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4429886103"
-  },
-  {
-    "id": "job-2da53af1",
-    "title": "Field Sales Executive (B2C) - Udaipur",
-    "company": "Solarium Green Energy Limited",
-    "location": "Udaipur, Rajasthan, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4468097075"
-  },
-  {
-    "id": "job-c74dc0ef",
-    "title": "Solar Sales Executive",
-    "company": "Blue Horn Technologies",
-    "location": "India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4303878164"
-  },
-  {
-    "id": "job-227cc068",
-    "title": "Business Development Executive",
-    "company": "Codequery Technology",
-    "location": "Patna, Bihar, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4466960756"
-  },
-  {
-    "id": "job-0b19a824",
-    "title": "Field Sales Executive",
-    "company": "IECHM Technology Private Limited",
-    "location": "Chennai, Tamil Nadu, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4466982225"
   },
   {
     "id": "job-cc0d1633",
@@ -1174,29 +1198,5 @@
     "posted_date": "Recently",
     "description": "**Date Posted:**\n\n\n2026\\-09\\-17**Country:**\n\n\nIndia\n**Location:**\n\n\nIN\\-KA\\-BENGALURU\\-NORTHGATE \\~ Sy No 2/2 Venkatala Village \\~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli\n**Position Role Type:**\n\n\nHybrid\nAt RTX, the world's largest aerospace and defense company, 185,000 g...",
     "job_link": "https://in.indeed.com/viewjob?jk=d0ea8ced8e0c31d2"
-  },
-  {
-    "id": "job-e8f0aa01",
-    "title": "Account Executive",
-    "company": "Shubhra Traders",
-    "location": "UP, IN",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "I want toh hire staff to manage Book keeping, gst return, tds , balance sheet, sales invoice, purchase bank reconciliation\n\nPay: ₹25,000\\.00 \\- ₹35,000\\.00 per month\n\nWork Location: In person",
-    "job_link": "https://in.indeed.com/viewjob?jk=e8e40a0eb1d267eb"
-  },
-  {
-    "id": "job-144ba677",
-    "title": "Product Owner",
-    "company": "World Bank Group",
-    "location": "TN, IN",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "**Product Owner**\n\n\n**Job \\#:** req38339\n  \n\n**Organization:** World Bank Group\n  \n\n**Sector:** Information Technology\n  \n\n**Grade:** GF\n  \n\n**Term Duration:** Open\\-Ended Staff (OPEN\\-OP)  \n\n\n**Recruitment Type:** Local Recruitment\n  \n\n**Location:** Chennai,India\n  \n\n**Requir...",
-    "job_link": "https://in.indeed.com/viewjob?jk=88074c171665ac20"
   }
 ]
