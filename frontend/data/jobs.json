@@ -1,6 +1,18 @@
 [
   {
-    "id": "job-1a46e4e4",
+    "id": "job-6e3f8556",
+    "title": "Sales Executive",
+    "company": "Som Energy Systems",
+    "location": "Vadodara, Gujarat, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468409430"
+  },
+  {
+    "id": "job-44acadce",
     "title": "Sales Specialist - Sales",
     "company": "GE Vernova",
     "location": "India",
@@ -12,7 +24,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4459652890"
   },
   {
-    "id": "job-13768aa5",
+    "id": "job-367818fe",
     "title": "Engineer - Software",
     "company": "Eaton",
     "location": "Chennai, Tamil Nadu, India",
@@ -24,7 +36,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4429886103"
   },
   {
-    "id": "job-3058fe72",
+    "id": "job-cc7506cc",
     "title": "Field Sales Executive (B2C) - Udaipur",
     "company": "Solarium Green Energy Limited",
     "location": "Udaipur, Rajasthan, India",
@@ -36,7 +48,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4468097075"
   },
   {
-    "id": "job-ed95fc1f",
+    "id": "job-32973e39",
     "title": "Solar Sales Executive",
     "company": "Blue Horn Technologies",
     "location": "India",
@@ -48,7 +60,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4303878164"
   },
   {
-    "id": "job-8e566c4c",
+    "id": "job-e49335b3",
     "title": "2027 Campus Hire_Engineer_SW",
     "company": "Qualcomm",
     "location": "India",
@@ -60,7 +72,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4440753351"
   },
   {
-    "id": "job-c7464b72",
+    "id": "job-8f0c67db",
     "title": "Business Development Executive- Construction & EPC",
     "company": "Levenus Projects",
     "location": "Bhubaneswar, Odisha, India",
@@ -72,7 +84,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466977371"
   },
   {
-    "id": "job-26def8aa",
+    "id": "job-0b23cd43",
     "title": "Senior Software Engineer",
     "company": "Kaleris",
     "location": "Chennai, Tamil Nadu, India",
@@ -84,7 +96,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4468408475"
   },
   {
-    "id": "job-ee1bf66b",
+    "id": "job-08f91f1f",
     "title": "Software Engineer II",
     "company": "Mastercard",
     "location": "Pune Division, Maharashtra, India",
@@ -96,7 +108,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466912757"
   },
   {
-    "id": "job-13abb8ab",
+    "id": "job-82e04d38",
     "title": "Software Engineer",
     "company": "GE Vernova",
     "location": "Bengaluru, Karnataka, India",
@@ -108,7 +120,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4469146208"
   },
   {
-    "id": "job-034883a5",
+    "id": "job-eacd440e",
     "title": "Senior Engineer, Software Development",
     "company": "Landis+Gyr",
     "location": "Noida, Uttar Pradesh, India",
@@ -120,7 +132,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4467844466"
   },
   {
-    "id": "job-a1433aa9",
+    "id": "job-8121c419",
     "title": "Business Development Executive - B2B sales",
     "company": "RENGY",
     "location": "Khammam, Telangana, India",
@@ -132,7 +144,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466684740"
   },
   {
-    "id": "job-83eb37e6",
+    "id": "job-1ddaea5f",
     "title": "Backend Engineer - Distributed Systems (India)",
     "company": "Onehouse",
     "location": "India",
@@ -144,7 +156,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4255527098"
   },
   {
-    "id": "job-7d9839b2",
+    "id": "job-0b85be43",
     "title": "Software Engineer I - DaWinci (Hybrid Work Model)",
     "company": "Quorum Software",
     "location": "Pune Division, Maharashtra, India",
@@ -156,7 +168,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4438416384"
   },
   {
-    "id": "job-cb3994a9",
+    "id": "job-7f4f12ef",
     "title": "Field Sales Executive",
     "company": "Dzone India Software",
     "location": "Jaipur, Rajasthan, India",
@@ -168,7 +180,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466688489"
   },
   {
-    "id": "job-0e81f1a7",
+    "id": "job-6ac77730",
     "title": "Field Sales Executive",
     "company": "Mettle Tech",
     "location": "Kolkata, West Bengal, India",
@@ -180,7 +192,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466682293"
   },
   {
-    "id": "job-e9298d74",
+    "id": "job-1233b346",
     "title": "Senior Territory Account Executive (Chennai)",
     "company": "Sophos",
     "location": "Chennai, Tamil Nadu, India",
@@ -192,7 +204,19 @@
     "job_link": "https://www.linkedin.com/jobs/view/4409047324"
   },
   {
-    "id": "job-247154ec",
+    "id": "job-ab0f8991",
+    "title": "Software Engineer - Java Fullstack",
+    "company": "The Depository Trust & Clearing Corporation (DTCC)",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4469175325"
+  },
+  {
+    "id": "job-8d7f6eda",
     "title": "Software Engineer II (3-6 years in Asp.Net,C#) Pune",
     "company": "Worldpay",
     "location": "Pune Division, Maharashtra, India",
@@ -204,7 +228,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4469122288"
   },
   {
-    "id": "job-ed611c4c",
+    "id": "job-9c2c8a11",
     "title": "Sales Business Development Executive (BDE)",
     "company": "Tree Multisoft Services | IT and Digital Marketing Company",
     "location": "Dehradun, Uttarakhand, India",
@@ -216,7 +240,7 @@
     "job_link": "https://www.linkedin.com/jobs/view/4466677987"
   },
   {
-    "id": "job-dc3651d9",
+    "id": "job-50c6c687",
     "title": "Sales Executive",
     "company": "BlueStone",
     "location": "Pudukkottai, Tamil Nadu, India",
@@ -226,6 +250,54 @@
     "posted_date": "Recently",
     "description": "",
     "job_link": "https://www.linkedin.com/jobs/view/4466652541"
+  },
+  {
+    "id": "job-d742f892",
+    "title": "Engineer, Associate",
+    "company": "Qualcomm",
+    "location": "India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468458803"
+  },
+  {
+    "id": "job-1bbc31d9",
+    "title": "Inside Account Executive",
+    "company": "Cisco",
+    "location": "India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4404876838"
+  },
+  {
+    "id": "job-404340af",
+    "title": "Sales Executive – Sustainable Energy & Smart Solutions",
+    "company": "VHAN Confiance (OPC) Private Limited",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4468461837"
+  },
+  {
+    "id": "job-cfc7e638",
+    "title": "Growth Executive",
+    "company": "Deckoviz Space Labs",
+    "location": "Ahmedabad, Gujarat, India",
+    "job_type": "Full-time",
+    "experience": "Not specified",
+    "salary": "Competitive",
+    "posted_date": "Recently",
+    "description": "",
+    "job_link": "https://www.linkedin.com/jobs/view/4467338453"
   },
   {
     "id": "job-f82412af",
@@ -238,66 +310,6 @@
     "posted_date": "Recently",
     "description": "",
     "job_link": "https://www.linkedin.com/jobs/view/4404040511"
-  },
-  {
-    "id": "job-22e9415a",
-    "title": "Engineer, Associate",
-    "company": "Qualcomm",
-    "location": "India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4468458803"
-  },
-  {
-    "id": "job-b6f78f3d",
-    "title": "Sales Executive",
-    "company": "Som Energy Systems",
-    "location": "Vadodara, Gujarat, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4468409430"
-  },
-  {
-    "id": "job-7ab93bbb",
-    "title": "Inside Account Executive",
-    "company": "Cisco",
-    "location": "India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4404876838"
-  },
-  {
-    "id": "job-11acf29e",
-    "title": "Sales Executive – Sustainable Energy & Smart Solutions",
-    "company": "VHAN Confiance (OPC) Private Limited",
-    "location": "Chennai, Tamil Nadu, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4468461837"
-  },
-  {
-    "id": "job-e975b4d2",
-    "title": "Growth Executive",
-    "company": "Deckoviz Space Labs",
-    "location": "Ahmedabad, Gujarat, India",
-    "job_type": "Full-time",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "",
-    "job_link": "https://www.linkedin.com/jobs/view/4467338453"
   },
   {
     "id": "job-0b49b52b",
@@ -1186,17 +1198,5 @@
     "posted_date": "Recently",
     "description": "#### **JOB DESCRIPTION**\n\n\nThe primary responsibilities include:\n\n* Sales, account management, and business retention for CoreIP services\n* Maintain and update website, manage social media pages of the company\n* Attend IPR conferences in India and abroad, and effectively repre...",
     "job_link": "https://in.indeed.com/viewjob?jk=c3aa8b653aabf192"
-  },
-  {
-    "id": "job-8492d5fd",
-    "title": "Business Development Manager - Gold Loan| Panaji",
-    "company": "CSB BANK LTD",
-    "location": "GA, IN",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "Competitive",
-    "posted_date": "Recently",
-    "description": "Job Description\n  \nTo drive portfolio growth through evaluation of customer financing requirements, identification of business opportunities and recommendation of suitable lending solutions that support business objectives and portfolio quality.\n\n\n  \nResponsibilities\n  \n* Cond...",
-    "job_link": "https://in.indeed.com/viewjob?jk=77afa20e89e4920f"
   }
 ]
