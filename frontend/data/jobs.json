@@ -1,18 +1,6 @@
 [
   {
-    "id": "job-e6ed6db8",
-    "title": "Associate Project Engineer",
-    "company": "ABB",
-    "location": "KA, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis Position reports to:\n\nPROJECT ENGINEER\n\n### \n\n...",
-    "job_link": "https://in.indeed.com/viewjob?jk=abee5c8bf8bbe5e1"
-  },
-  {
-    "id": "job-9b5b5092",
+    "id": "job-fd0b0f3e",
     "title": "Junior Engineer",
     "company": "Jindal Stainless Limited",
     "location": "OR, India",
@@ -24,7 +12,19 @@
     "job_link": "https://in.indeed.com/viewjob?jk=ad1b9ab6177f2e4d"
   },
   {
-    "id": "job-6edd7f13",
+    "id": "job-c1b9c324",
+    "title": "Associate Project Engineer",
+    "company": "ABB",
+    "location": "KA, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.\n\nThis Position reports to:\n\nPROJECT ENGINEER\n\n### \n\n...",
+    "job_link": "https://in.indeed.com/viewjob?jk=abee5c8bf8bbe5e1"
+  },
+  {
+    "id": "job-9fbb9cd0",
     "title": "Senior Engineer",
     "company": "G R INFRAPROJECTS",
     "location": "MP, India",
@@ -36,19 +36,19 @@
     "job_link": "https://in.indeed.com/viewjob?jk=b832c3dbe7c30a1f"
   },
   {
-    "id": "job-7763f403",
-    "title": "Lead engineer",
-    "company": "L&T Technology Services Ltd.",
-    "location": "KA, India",
-    "job_type": "Fulltime",
+    "id": "job-07b066e4",
+    "title": "Design Robustness Engineer (Electrical & Electronics)",
+    "company": "Hero Moto Corp",
+    "location": "RJ, India",
+    "job_type": "Nan",
     "experience": "Not specified",
     "salary": "nan - nan nan",
     "posted_date": "Recently",
-    "description": "LTTS India\n\nBangalore\n\n**Job Description**\n\nVLSI Skilled engineers with RTL, DV, DFT and PD skills working across the IP, SS and SOC Level activites.\n  \nVLSI Skilled engineers with RTL, DV, DFT and PD skills working across the IP, SS and SOC Level activites.\n  \nVLSI Skilled en...",
-    "job_link": "https://in.indeed.com/viewjob?jk=2914a66799f3a955"
+    "description": "»\n\n**Date:** 15 Oct 2026\n\n**Location:** Jaipur, RJ, IN, 302028\n\n**Company:** Hero Motocorp\n\n**Function**\n------------\n\nResearch & Development - Jaipur\n\n**Pay Band**\n------------\n\nE4 to M2\n\n**Role**\n--------\n\nDesign Robustness Engineer (Electrical & Electronics)\n\n**A purpose dr...",
+    "job_link": "https://in.indeed.com/viewjob?jk=7a9f230947378b84"
   },
   {
-    "id": "job-cd90bca2",
+    "id": "job-3effca5e",
     "title": "Project Engineer - Radar",
     "company": "L&T Technology Services Ltd.",
     "location": "MH, India",
@@ -60,19 +60,19 @@
     "job_link": "https://in.indeed.com/viewjob?jk=07d2aa80db8092bc"
   },
   {
-    "id": "job-d0a4659d",
-    "title": "Engineer I, Electrical Systems Design",
-    "company": "Schneider Electric",
+    "id": "job-eee1b4c9",
+    "title": "Lead engineer",
+    "company": "L&T Technology Services Ltd.",
     "location": "KA, India",
     "job_type": "Fulltime",
     "experience": "Not specified",
     "salary": "nan - nan nan",
     "posted_date": "Recently",
-    "description": "Job Description:\n\n**Job Summary**\n\nWe are seeking a motivated **Power System Engineer** with 2-5 years of experience in electrical power system analysis and engineering studies to support **Industrial and Commercial projects**. The ideal candidate will perform power system stu...",
-    "job_link": "https://in.indeed.com/viewjob?jk=7e5d7d5352224f1b"
+    "description": "LTTS India\n\nBangalore\n\n**Job Description**\n\nVLSI Skilled engineers with RTL, DV, DFT and PD skills working across the IP, SS and SOC Level activites.\n  \nVLSI Skilled engineers with RTL, DV, DFT and PD skills working across the IP, SS and SOC Level activites.\n  \nVLSI Skilled en...",
+    "job_link": "https://in.indeed.com/viewjob?jk=2914a66799f3a955"
   },
   {
-    "id": "job-0fb9faaa",
+    "id": "job-210083cc",
     "title": "AGM - Electrical",
     "company": "L&T Technology Services Ltd.",
     "location": "PB, India",
@@ -84,7 +84,19 @@
     "job_link": "https://in.indeed.com/viewjob?jk=12ec23c386a8cd61"
   },
   {
-    "id": "job-4692e50e",
+    "id": "job-564623a6",
+    "title": "Engineer I, Electrical Systems Design",
+    "company": "Schneider Electric",
+    "location": "KA, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Job Description:\n\n**Job Summary**\n\nWe are seeking a motivated **Power System Engineer** with 2-5 years of experience in electrical power system analysis and engineering studies to support **Industrial and Commercial projects**. The ideal candidate will perform power system stu...",
+    "job_link": "https://in.indeed.com/viewjob?jk=7e5d7d5352224f1b"
+  },
+  {
+    "id": "job-97786d2f",
     "title": "DEVOPS ENGINEER L4(CONTRACT)",
     "company": "Wipro",
     "location": "MH, India",
@@ -96,31 +108,31 @@
     "job_link": "https://in.indeed.com/viewjob?jk=43eadb437bc64951"
   },
   {
-    "id": "job-914bb641",
-    "title": "Junior Systems Engineer",
-    "company": "IKEA",
+    "id": "job-7df1d516",
+    "title": "Project Erection Engineer-Electrical",
+    "company": "Jakson Group",
+    "location": "TN, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Job Requirements**  \n\nThe **Erection Lead** at **Jakson Limited**—Power generation projects—plays a crucial leadership role in managing all aspects of site execution from site mobilization till handing over the Project.\n\n**1. Site Mobilisation**\n\n* Study of contract for scop...",
+    "job_link": "https://in.indeed.com/viewjob?jk=33b722c3d8a000b5"
+  },
+  {
+    "id": "job-87939f31",
+    "title": "Sr Engineer",
+    "company": "Jakson Group",
     "location": "KA, India",
     "job_type": "Fulltime",
     "experience": "Not specified",
     "salary": "nan - nan nan",
     "posted_date": "Recently",
-    "description": "\"You care about making a positive impact in the world. You understand greatness requires thinking differently. An inclusive and accepting work environment is important to you.\n\nA job at IKEA is so much more than home furnishings. Together, we work to make a better everyday lif...",
-    "job_link": "https://in.indeed.com/viewjob?jk=ac3f0e2e033c387e"
+    "description": "**Job Requirements**  \n\n**Education:** Diploma or B.E./B.Tech in Electrical, Electronics or Mechanical Engineering (Electrical preferred).\n\n**Experience:** 3–4 years of hands-on site work in rooftop solar PV installation.\n\n**Must-have skills**\n\n1. Trained in solar rooftop inst...",
+    "job_link": "https://in.indeed.com/viewjob?jk=6b3210e8e9106fe0"
   },
   {
-    "id": "job-24177bbc",
-    "title": "Electrical Site Engineer",
-    "company": "SaiLog Solutions",
-    "location": "TN, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "50000.0 - 70000.0 INR",
-    "posted_date": "Recently",
-    "description": "Urgently required\n\nElectrical site engineer\n\n**UAE sharjah**\n\nPassport must\n\nImmediate joiner\n\nResponsibilities\n\nSupervise and manage electrical installation, commissioning, and maintenance activities at project sites. Ensure compliance with industry standards, regulations, an...",
-    "job_link": "https://in.indeed.com/viewjob?jk=8e253901fa1e1583"
-  },
-  {
-    "id": "job-1f9a7962",
+    "id": "job-527f1d63",
     "title": "Sr. Electrical Engineer",
     "company": "Tata Consulting Engineers",
     "location": "MH, India",
@@ -132,7 +144,31 @@
     "job_link": "https://in.indeed.com/viewjob?jk=2851334f803ed902"
   },
   {
-    "id": "job-f1312a26",
+    "id": "job-ac7a9ab7",
+    "title": "Junior Systems Engineer",
+    "company": "IKEA",
+    "location": "KA, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "\"You care about making a positive impact in the world. You understand greatness requires thinking differently. An inclusive and accepting work environment is important to you.\n\nA job at IKEA is so much more than home furnishings. Together, we work to make a better everyday lif...",
+    "job_link": "https://in.indeed.com/viewjob?jk=ac3f0e2e033c387e"
+  },
+  {
+    "id": "job-9cb86111",
+    "title": "Electrical Site Engineer",
+    "company": "SaiLog Solutions",
+    "location": "TN, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "50000.0 - 70000.0 INR",
+    "posted_date": "Recently",
+    "description": "Urgently required\n\nElectrical site engineer\n\n**UAE sharjah**\n\nPassport must\n\nImmediate joiner\n\nResponsibilities\n\nSupervise and manage electrical installation, commissioning, and maintenance activities at project sites. Ensure compliance with industry standards, regulations, an...",
+    "job_link": "https://in.indeed.com/viewjob?jk=8e253901fa1e1583"
+  },
+  {
+    "id": "job-6a677b22",
     "title": "Site Reliability Engineer",
     "company": "Rockwell Automation",
     "location": "MH, India",
@@ -144,7 +180,7 @@
     "job_link": "https://in.indeed.com/viewjob?jk=debb89f69e579df6"
   },
   {
-    "id": "job-7271eb04",
+    "id": "job-4daff0b7",
     "title": "Design Engineer – Electrical",
     "company": "A.P.C. System & Products",
     "location": "WB, India",
@@ -156,7 +192,7 @@
     "job_link": "https://in.indeed.com/viewjob?jk=f46d4dea9b9d3098"
   },
   {
-    "id": "job-39fa85c4",
+    "id": "job-12ab4e63",
     "title": "Project Engineer",
     "company": "Rukmani Realty",
     "location": "UP, India",
@@ -166,6 +202,222 @@
     "posted_date": "Recently",
     "description": "**Project Location**: Lucknow, Uttar Pradesh\n\n**Project**: Group Housing / Residential and Mixed Use Real Estate Development (G+23 floors)\n\n**Reporting To**: Management\n\n**Experience**: 8–15 years preferred, with substantial hands-on experience in residential building construc...",
     "job_link": "https://in.indeed.com/viewjob?jk=a4e4eb16f3fe1832"
+  },
+  {
+    "id": "job-2d7b0668",
+    "title": "Staff Engineer",
+    "company": "Stryker",
+    "location": "HR, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "### **Why join Stryker?**\n\nLooking for a place that values your unique talents? Discover Stryker's award-winning culture.  \nWe are proud to offer you our total rewards package which includes bonuses, healthcare, insurance benefits, retirement programs, wellness programs, as we...",
+    "job_link": "https://in.indeed.com/viewjob?jk=f23297e707323f5b"
+  },
+  {
+    "id": "job-b98d8002",
+    "title": "VIM VAR Project _Electrical",
+    "company": "Jindal Stainless Limited",
+    "location": "HR, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Job Description\n\n**Company Overview:**\n\n**Jindal Stainless Limited** is one of India’s largest and most respected stainless steel manufacturers. With a strong emphasis on operational excellence, innovation, and sustainability, we serve diverse sectors ranging from infrastructu...",
+    "job_link": "https://in.indeed.com/viewjob?jk=1c50113506bdba95"
+  },
+  {
+    "id": "job-dcadd9b1",
+    "title": "Electrical Engineer",
+    "company": "Trade tech international",
+    "location": "KL, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "74000.0 - 148000.0 INR",
+    "posted_date": "Recently",
+    "description": "Job Vacancy: Electrical Engineer\n\nLocation: Oman\n\nExperience: 2–6 Years\n\nSalary: OMR 300–600 per month\n\nPreferred Experience: GCC experience preferred Mandatory Requirement: Valid driving licence from any GCC country\n\nJob Description\n\nWe are seeking a skilled and motivated Ele...",
+    "job_link": "https://in.indeed.com/viewjob?jk=f0e97735524ee89c"
+  },
+  {
+    "id": "job-43286bcb",
+    "title": "MEP - Electrical (T&C) S Band",
+    "company": "L&T Technology Services Ltd.",
+    "location": "TN, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "400000.0 - 2000000.0 INR",
+    "posted_date": "Recently",
+    "description": "LNT/M-E-SB/1892894\n\n* PAH-Public Spaces, Airports & Health\n* Chennai Head Qrs.\n\n* Posted On 13 Oct 2026\n* End Date 11 Apr 2027\n* Required Experience2 - 6 years\n\n  \n\n**Skills**\n----------\n\n#### **Knowledge & Posting Location**\n\nTesting LA commision MEP\n\n#### **Minimum Qualifica...",
+    "job_link": "https://in.indeed.com/viewjob?jk=547b6557b1ec3240"
+  },
+  {
+    "id": "job-5f3c3330",
+    "title": "Electrical Developer",
+    "company": "Siemens",
+    "location": "TN, India",
+    "job_type": "Fulltime, contract",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Dear Aspirant!**\n\nWe empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like yo...",
+    "job_link": "https://in.indeed.com/viewjob?jk=fa59f35a0057d5de"
+  },
+  {
+    "id": "job-3ff94fe9",
+    "title": "Planning Engineer",
+    "company": "L&T Technology Services Ltd.",
+    "location": "GJ, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "1260000.0 - 1800000.0 INR",
+    "posted_date": "Recently",
+    "description": "LNT/PE/1893119\n\n* HYOS-L&T Energy Hydrocarbon - Onshore\n* Jamnagar\n\n* Posted On 13 Oct 2026\n* End Date 11 Apr 2027\n* Required Experience7 - 10 years\n\n  \n\n**Skills**\n----------\n\n#### **Knowledge & Posting Location**\n\nBilling Invoicing Planning Project Management Schedule Contro...",
+    "job_link": "https://in.indeed.com/viewjob?jk=c72dd65b32863f9c"
+  },
+  {
+    "id": "job-42c929d7",
+    "title": "APQP Engineer - EV",
+    "company": "Hero Moto Corp",
+    "location": "HR, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "»\n\n**Date:** 13 Oct 2026\n\n**Location:** Gurgaon, HR, IN, 122001\n\n**Company:** Hero Motocorp\n\n**Function**\n------------\n\nQuality\n\n**Pay Band**\n------------\n\nE4 to M2\n\n**Role**\n--------\n\nAPQP Engineer - EV\n\n**A purpose driven role for you**\n---------------------------------\n\nThe...",
+    "job_link": "https://in.indeed.com/viewjob?jk=5d95c15f06cc1554"
+  },
+  {
+    "id": "job-99ce5353",
+    "title": "DEVELOPER L3(CONTRACT)",
+    "company": "Wipro",
+    "location": "MH, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Job Title: DEVELOPER L3(CONTRACT)\n\nCity: Pune\n\nState/Province: Maharashtra\n\nPosting Start Date: 10/13/26\n\nWipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ m...",
+    "job_link": "https://in.indeed.com/viewjob?jk=4a893b66a3527cd7"
+  },
+  {
+    "id": "job-4166cf62",
+    "title": "Business Development Executive",
+    "company": "Clans Machina",
+    "location": "Bhubaneswar, Odisha, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4477042879"
+  },
+  {
+    "id": "job-d2282c14",
+    "title": "Field Sales - Business Development Executive",
+    "company": "RENGY",
+    "location": "Hyderabad, Telangana, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4477074191"
+  },
+  {
+    "id": "job-8725dfd4",
+    "title": "Business Development Executive- B2B",
+    "company": "RENGY",
+    "location": "Rajahmundry, Andhra Pradesh, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4477055520"
+  },
+  {
+    "id": "job-7781f943",
+    "title": "Software Developer II (Back-End)",
+    "company": "ABC Fitness",
+    "location": "Greater Hyderabad Area",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4479162140"
+  },
+  {
+    "id": "job-d05fc2e0",
+    "title": "Sales Executive",
+    "company": "Skyy Rider Electric",
+    "location": "Bhubaneswar, Odisha, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4477056284"
+  },
+  {
+    "id": "job-11e87d20",
+    "title": "Jr. Sales Executive (North Kerala)",
+    "company": "Voyon Group | Voyon Folks HRMS",
+    "location": "Kochi, Kerala, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4478828760"
+  },
+  {
+    "id": "job-463f25ee",
+    "title": "Software Engineer",
+    "company": "Mastercard",
+    "location": "Pune Division, Maharashtra, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4476692230"
+  },
+  {
+    "id": "job-80d37ebe",
+    "title": "Software Engineer (.Net)",
+    "company": "Rockwell Automation",
+    "location": "Pune Division, Maharashtra, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4479508421"
+  },
+  {
+    "id": "job-0cc9b221",
+    "title": "Sales Executive",
+    "company": "Nakshatra Power Solutions",
+    "location": "Jaipur, Rajasthan, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4478119620"
+  },
+  {
+    "id": "job-a6885e26",
+    "title": "Field sales Executive – B2B Sales",
+    "company": "SMS SOLUTIONS",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4477983145"
   },
   {
     "id": "job-263a3a46",
@@ -180,18 +432,6 @@
     "job_link": "https://in.indeed.com/viewjob?jk=c47e4775dad91c89"
   },
   {
-    "id": "job-733d3e5c",
-    "title": "Electrical Engineer",
-    "company": "Trade tech international",
-    "location": "KL, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "74000.0 - 148000.0 INR",
-    "posted_date": "Recently",
-    "description": "Job Vacancy: Electrical Engineer\n\nLocation: Oman\n\nExperience: 2–6 Years\n\nSalary: OMR 300–600 per month\n\nPreferred Experience: GCC experience preferred Mandatory Requirement: Valid driving licence from any GCC country\n\nJob Description\n\nWe are seeking a skilled and motivated Ele...",
-    "job_link": "https://in.indeed.com/viewjob?jk=f0e97735524ee89c"
-  },
-  {
     "id": "job-e48a0593",
     "title": "Experienced Engineer, Power System",
     "company": "Volvo Group",
@@ -202,54 +442,6 @@
     "posted_date": "Recently",
     "description": "Transport is at the core of modern society. Imagine using your expertise to shape sustainable transport and infrastructure solutions for the future. If you seek to make a difference on a global scale, working with next-gen technologies and the sharpest collaborative teams, the...",
     "job_link": "https://in.indeed.com/viewjob?jk=7150efaa6834e897"
-  },
-  {
-    "id": "job-3367c336",
-    "title": "Electrical Developer",
-    "company": "Siemens",
-    "location": "TN, India",
-    "job_type": "Fulltime, contract",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Dear Aspirant!**\n\nWe empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like yo...",
-    "job_link": "https://in.indeed.com/viewjob?jk=fa59f35a0057d5de"
-  },
-  {
-    "id": "job-c748551a",
-    "title": "MEP - Electrical (T&C) S Band",
-    "company": "L&T Technology Services Ltd.",
-    "location": "TN, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "400000.0 - 2000000.0 INR",
-    "posted_date": "Recently",
-    "description": "LNT/M-E-SB/1892894\n\n* PAH-Public Spaces, Airports & Health\n* Chennai Head Qrs.\n\n* Posted On 13 Oct 2026\n* End Date 11 Apr 2027\n* Required Experience2 - 6 years\n\n  \n\n**Skills**\n----------\n\n#### **Knowledge & Posting Location**\n\nTesting LA commision MEP\n\n#### **Minimum Qualifica...",
-    "job_link": "https://in.indeed.com/viewjob?jk=547b6557b1ec3240"
-  },
-  {
-    "id": "job-278527e3",
-    "title": "Planning Engineer",
-    "company": "L&T Technology Services Ltd.",
-    "location": "GJ, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "1260000.0 - 1800000.0 INR",
-    "posted_date": "Recently",
-    "description": "LNT/PE/1893119\n\n* HYOS-L&T Energy Hydrocarbon - Onshore\n* Jamnagar\n\n* Posted On 13 Oct 2026\n* End Date 11 Apr 2027\n* Required Experience7 - 10 years\n\n  \n\n**Skills**\n----------\n\n#### **Knowledge & Posting Location**\n\nBilling Invoicing Planning Project Management Schedule Contro...",
-    "job_link": "https://in.indeed.com/viewjob?jk=c72dd65b32863f9c"
-  },
-  {
-    "id": "job-c3115f88",
-    "title": "APQP Engineer - EV",
-    "company": "Hero Moto Corp",
-    "location": "HR, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "»\n\n**Date:** 13 Oct 2026\n\n**Location:** Gurgaon, HR, IN, 122001\n\n**Company:** Hero Motocorp\n\n**Function**\n------------\n\nQuality\n\n**Pay Band**\n------------\n\nE4 to M2\n\n**Role**\n--------\n\nAPQP Engineer - EV\n\n**A purpose driven role for you**\n---------------------------------\n\nThe...",
-    "job_link": "https://in.indeed.com/viewjob?jk=5d95c15f06cc1554"
   },
   {
     "id": "job-563792cd",
@@ -298,78 +490,6 @@
     "posted_date": "Recently",
     "description": "LNT/-E/1891864\n\n* TI-Transportation Infrastructure IC\n* Guwahati\n\n* Posted On 12 Oct 2026\n* End Date 10 Apr 2027\n* Required Experience3 - 10 years\n\n  \n\n**Skills**\n----------\n\n#### **Knowledge & Posting Location**\n\nSurvey\n\n#### **Minimum Qualification**\n\nBachelors Program Civil...",
     "job_link": "https://in.indeed.com/viewjob?jk=c99c882c76bf248f"
-  },
-  {
-    "id": "job-154317be",
-    "title": "Business Development Executive",
-    "company": "Clans Machina",
-    "location": "Bhubaneswar, Odisha, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4477042879"
-  },
-  {
-    "id": "job-42a9d7a1",
-    "title": "Field Sales - Business Development Executive",
-    "company": "RENGY",
-    "location": "Hyderabad, Telangana, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4477074191"
-  },
-  {
-    "id": "job-fd5e8f89",
-    "title": "Business Development Executive- B2B",
-    "company": "RENGY",
-    "location": "Rajahmundry, Andhra Pradesh, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4477055520"
-  },
-  {
-    "id": "job-170f95d5",
-    "title": "Software Developer II (Back-End)",
-    "company": "ABC Fitness",
-    "location": "Greater Hyderabad Area",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4479162140"
-  },
-  {
-    "id": "job-d107944a",
-    "title": "Sales Executive",
-    "company": "Skyy Rider Electric",
-    "location": "Bhubaneswar, Odisha, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4477056284"
-  },
-  {
-    "id": "job-53d7f806",
-    "title": "Jr. Sales Executive (North Kerala)",
-    "company": "Voyon Group | Voyon Folks HRMS",
-    "location": "Kochi, Kerala, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4478828760"
   },
   {
     "id": "job-99558518",
@@ -444,30 +564,6 @@
     "job_link": "https://www.linkedin.com/jobs/view/4478846816"
   },
   {
-    "id": "job-325f5c12",
-    "title": "Software Engineer",
-    "company": "Mastercard",
-    "location": "Pune Division, Maharashtra, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4476692230"
-  },
-  {
-    "id": "job-0dea97f4",
-    "title": "Software Engineer (.Net)",
-    "company": "Rockwell Automation",
-    "location": "Pune Division, Maharashtra, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4479508421"
-  },
-  {
     "id": "job-551cf5eb",
     "title": "Account Executive, Inside Sales",
     "company": "Qualys",
@@ -490,30 +586,6 @@
     "posted_date": "Recently",
     "description": "nan",
     "job_link": "https://www.linkedin.com/jobs/view/4478432176"
-  },
-  {
-    "id": "job-6056bd5d",
-    "title": "Sales Executive",
-    "company": "Nakshatra Power Solutions",
-    "location": "Jaipur, Rajasthan, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4478119620"
-  },
-  {
-    "id": "job-d5e8d044",
-    "title": "Field sales Executive – B2B Sales",
-    "company": "SMS SOLUTIONS",
-    "location": "Coimbatore, Tamil Nadu, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4477983145"
   },
   {
     "id": "job-d33e1fe7",
@@ -550,18 +622,6 @@
     "posted_date": "Recently",
     "description": "As a Graduate Engineer Trainee (GET), you will be actively involved in PLC programming and SCADA application development for industrial automation projects across sectors such as Railways, Metro, Tunnels, Data Centres, and Renewable Energy.\n\nThis role requires a fundamental un...",
     "job_link": "https://in.indeed.com/viewjob?jk=f51b65b6fea66024"
-  },
-  {
-    "id": "job-706b5f64",
-    "title": "Design Robustness Engineer (Electrical & Electronics)",
-    "company": "Hero Moto Corp",
-    "location": "RJ, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "»\n\n**Date:** 15 Oct 2026\n\n**Location:** Jaipur, RJ, IN, 302028\n\n**Company:** Hero Motocorp\n\n**Function**\n------------\n\nResearch & Development - Jaipur\n\n**Pay Band**\n------------\n\nE4 to M2\n\n**Role**\n--------\n\nDesign Robustness Engineer (Electrical & Electronics)\n\n**A purpose dr...",
-    "job_link": "https://in.indeed.com/viewjob?jk=7a9f230947378b84"
   },
   {
     "id": "job-5bc8c8b3",
@@ -1138,65 +1198,5 @@
     "posted_date": "Recently",
     "description": "**Position: Sales Engineer**\n\n**Location:** North East(seven sister), North India(Himachal Pradesh , Uttarakhand, jammu kashmir, punjab, haryana\n\n**Qualifications & Requirements**\n\n* **Education:** Degree or Diploma in **Civil Engineering**.\n* **Experience:** 2 to 5 years (wit...",
     "job_link": "https://in.indeed.com/viewjob?jk=ad20a8c9df766c0e"
-  },
-  {
-    "id": "job-d3271004",
-    "title": "Backened Engineer",
-    "company": "seera",
-    "location": "Remote, India",
-    "job_type": "Fulltime, contract",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "About Seera\n\nSeera is building the leading Arabic-language microdrama streaming platform for the Middle East and North Africa. We produce and stream short, vertical, episodic drama made for mobile, and monetize through a hybrid model: coins to unlock episodes plus subscription...",
-    "job_link": "https://in.indeed.com/viewjob?jk=d164f9b447295743"
-  },
-  {
-    "id": "job-9eb4720e",
-    "title": "Junior Quality Assurance Engineer",
-    "company": "SparkRex Technologies",
-    "location": "Remote, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "15000.0 - 20000.0 INR",
-    "posted_date": "Recently",
-    "description": "About SPARK+ Technologies\n\nSPARK+ Technologies is a technology company focused on AI, Web3, blockchain, and digital learning. We build solutions that connect learning, technology, and career development.\n\nRole Overview\n\nWe are looking for a detail-oriented Junior QA Engineer w...",
-    "job_link": "https://in.indeed.com/viewjob?jk=bb79564896679cda"
-  },
-  {
-    "id": "job-eb6dbce0",
-    "title": "Tool and Die Design Engineer – Costing",
-    "company": "Progressive Tools and Components Pvt Ltd.",
-    "location": "UP, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "600000.0 - 1000000.0 INR",
-    "posted_date": "Recently",
-    "description": "PTC India (Progressive Tools & Components) is a multi-industry Indian engineering group founded in 1971. This role sits within the Engineering Division – Sheet Metal, specifically in the Costing Department at our Sahibabad facility. We are seeking an experienced Tool and Die D...",
-    "job_link": "https://in.indeed.com/viewjob?jk=c313fb31fc564a12"
-  },
-  {
-    "id": "job-8b06da85",
-    "title": "UAV/Drone Technical Engineer",
-    "company": "Vynedam Group Of Industries",
-    "location": "Remote, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "600000.0 - 900000.0 INR",
-    "posted_date": "Recently",
-    "description": "Hiring: UAV / Drone Technical Engineer\n\n**Company Name:** Vynedam Group of Industries  \n**Job Title:** UAV / Drone Technical Engineer  \n**Department:** Technical / Engineering  \n**Job Location:** Remote (If there's any client meeting, you need to visit Client office )  \n**Job ...",
-    "job_link": "https://in.indeed.com/viewjob?jk=1479371cabb64e86"
-  },
-  {
-    "id": "job-fae602e1",
-    "title": "Application Engineer (Fresher)",
-    "company": "Taasco International Trading LLC",
-    "location": "KL, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "60000.0 - 75000.0 INR",
-    "posted_date": "Recently",
-    "description": "We are looking for a proactive and technically driven Mechanical Engineer to support the Technical Team in delivering effective engineering solutions. This role involves understanding product applications across industries, assisting in customer engagements, and bridging techn...",
-    "job_link": "https://in.indeed.com/viewjob?jk=a1744971b8911ab7"
   }
 ]
