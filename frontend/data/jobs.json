@@ -1,6 +1,6 @@
 [
   {
-    "id": "job-10e0c050",
+    "id": "job-9747eff8",
     "title": "Software Engineer - Java",
     "company": "Société Générale",
     "location": "KA, India",
@@ -12,7 +12,7 @@
     "job_link": "https://in.indeed.com/viewjob?jk=072544e4f6ec6ec5"
   },
   {
-    "id": "job-e5c18c35",
+    "id": "job-c5ea262e",
     "title": "Module Design-ECU Electronics",
     "company": "L&T Technology Services Ltd.",
     "location": "KA, India",
@@ -24,7 +24,43 @@
     "job_link": "https://in.indeed.com/viewjob?jk=1cb733a68f80f079"
   },
   {
-    "id": "job-eb763131",
+    "id": "job-21495d27",
+    "title": "Software Engineer",
+    "company": "GE HealthCare",
+    "location": "KA, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Job Description Summary**\n===========================\n\nAs a Software Engineer you will be responsible for designing, building, delivering and maintaining next generation platform solutions. Working in the areas of software applications and platform.\n  \n  \nGE Healthcare is a ...",
+    "job_link": "https://in.indeed.com/viewjob?jk=cd096345106c89f8"
+  },
+  {
+    "id": "job-cf9838bd",
+    "title": "Associate Designer, PCB Layout Engineering",
+    "company": "Analog Devices",
+    "location": "KA, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Come join Analog Devices (ADI) – a place where Innovation meets Impact. For more than 55 years, Analog Devices has been inventing new breakthrough technologies that transform lives. At ADI you will work alongside the brightest minds to collaborate on solving complex problems t...",
+    "job_link": "https://in.indeed.com/viewjob?jk=e48165e4ebdbbff9"
+  },
+  {
+    "id": "job-f38dc159",
+    "title": "CAD Design Engineer",
+    "company": "Persistent Systems",
+    "location": "MH, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Job Description\n\n**About Persistent**\n\n  \n\nWe are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what's next. Our offerings and proven solutions crea...",
+    "job_link": "https://in.indeed.com/viewjob?jk=39bdfac9104379a3"
+  },
+  {
+    "id": "job-973515a6",
     "title": "Electrical Engineer",
     "company": "K I Solution",
     "location": "KA, India",
@@ -34,6 +70,342 @@
     "posted_date": "Recently",
     "description": "**Electrical Engineer**\n\n**Educational Qualification : BE / B.Tech in Electrical**   \n**Job Types : Fresher, Experienced**  \n**Salary :** ***Rs.30,*****000/- to 75000/-**\n\n**Responsibilities:**  \n**Designing, maintaining, implementing, or improving electrical instruments, faci...",
     "job_link": "https://in.indeed.com/viewjob?jk=1d23aa27d9a00581"
+  },
+  {
+    "id": "job-48a23ff1",
+    "title": "GeoSpatial Developer Java",
+    "company": "Cognizant",
+    "location": "TS, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Job summary**\n\nServe as a GeoSpatial Developer specializing in Java to design build and optimize spatially aware applications that run on cloud native platforms. Use AWS services Snowflake data warehousing and GenAI LLM integrations to deliver robust secure and scalable solu...",
+    "job_link": "https://in.indeed.com/viewjob?jk=3fea19f18933607d"
+  },
+  {
+    "id": "job-0260736a",
+    "title": "Apprentice Software Engineer",
+    "company": "Perceptive",
+    "location": "TS, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "We’re on a mission to change the future of clinical research. At Perceptive, we help the\n  \nbiopharmaceutical industry bring medical treatments to the market, faster.\n  \nOur mission is to change the world but to do this, we need people like you.\n\n**Location:** **Perceptive, Bu...",
+    "job_link": "https://in.indeed.com/viewjob?jk=3a0893b89a7e4c5a"
+  },
+  {
+    "id": "job-fe089c71",
+    "title": "Design & Sales Expert",
+    "company": "ASIAN Paints",
+    "location": "MH, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Location:\nNagpur, MH, IN\n\nAreas of Work: Sleek\n\nJob Id: 15800\n\n**Roles, Responsibilities and Deliverables:**\n\n1. Responsible for Kitchen and Wardrobe design for the client at the store\n\n2. Supporting the store manager/dealer to drive sales from the store. Achieving monthly sal...",
+    "job_link": "https://in.indeed.com/viewjob?jk=9e35d17fd25cbd95"
+  },
+  {
+    "id": "job-0ecb03f4",
+    "title": "Software Engineer",
+    "company": "Optum",
+    "location": "TS, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to fe...",
+    "job_link": "https://in.indeed.com/viewjob?jk=3cb994bc23dba71d"
+  },
+  {
+    "id": "job-d5d62eda",
+    "title": "UI/UX Technical Architect",
+    "company": "HCLTech",
+    "location": "TN, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Job Summary**\n---------------\n\nThe Technical Architect for UI/UX Designs is responsible for overseeing the technical aspects of UI/UX design projects. They will collaborate with internal teams and clients to ensure the successful delivery of visually appealing and user-frien...",
+    "job_link": "https://in.indeed.com/viewjob?jk=285423b29806aa23"
+  },
+  {
+    "id": "job-eb40c800",
+    "title": "Software Engineer",
+    "company": "Microsoft",
+    "location": "KA, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Overview**\n\nMicrosoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  \n  \nMi...",
+    "job_link": "https://in.indeed.com/viewjob?jk=bf77b57145aef457"
+  },
+  {
+    "id": "job-ba2aa02f",
+    "title": "Graphic Designer",
+    "company": "Indegene",
+    "location": "KA, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "900000.0 - 900000.0 INR",
+    "posted_date": "Recently",
+    "description": "Date: 11/5/26\n\nDescription:\n\n**Company Description**\n\nWe are a technology-led healthcare solutions provider. We are driven by our purpose to enable healthcare organizations to be future-ready. We offer accelerated, global growth opportunities for talent that’s bold, industriou...",
+    "job_link": "https://in.indeed.com/viewjob?jk=2110a8dbfb21214d"
+  },
+  {
+    "id": "job-364c2744",
+    "title": "Python Developer",
+    "company": "Wipro",
+    "location": "TS, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Job Title: Python Developer\n\nCity: Hyderabad\n\nState/Province: Telangana\n\nPosting Start Date: 11/5/26\n\nWipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most ...",
+    "job_link": "https://in.indeed.com/viewjob?jk=5fc67cbf2d4e2016"
+  },
+  {
+    "id": "job-c72eb067",
+    "title": "Technical Lead",
+    "company": "HCLTech",
+    "location": "TS, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Job Summary**\n---------------\n\nJob description-Config Developer (Java)**Role: Java Developer****Location: Hyderabad****Qualifications**Around 5+ years of experience with software engineeringExperience with modern Java frameworksKnowledge of microservices architecture and des...",
+    "job_link": "https://in.indeed.com/viewjob?jk=418e7f746bd93086"
+  },
+  {
+    "id": "job-3c169945",
+    "title": "Full Stack Developer Software Engineer",
+    "company": "Procter & Gamble",
+    "location": "TS, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Location NANAKRAMGUDA, HYDERABAD, India Category Information Technology Job Id R000162157 Job Type Full time Experienced Professionals\n\n  \n\n**Job Location**\n\nHYDERABAD OFFICE APAC PSC GDOP\n\n**Job Description**\n\nP&G was founded over 180 years ago as a simple soap and candle com...",
+    "job_link": "https://in.indeed.com/viewjob?jk=83c137114d364d6a"
+  },
+  {
+    "id": "job-43cc0229",
+    "title": "Associate Software Engineer",
+    "company": "TriNet",
+    "location": "TS, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "TriNet is a leading provider of comprehensive human resources solutions for small to midsize businesses (SMBs). We enhance business productivity by enabling our clients to outsource their HR function to one strategic partner and allowing them to focus on operating and growing ...",
+    "job_link": "https://in.indeed.com/viewjob?jk=d182769e44cfa60c"
+  },
+  {
+    "id": "job-67e17afe",
+    "title": "Software Engineer",
+    "company": "DeepIntent",
+    "location": "MH, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "DeepIntent is the leading healthcare marketing platform, purpose-built to help marketers plan, activate, and optimize data-driven campaigns with speed and precision. Trusted by the world's top healthcare brands and their agencies, DeepIntent uniquely unites media, identity, an...",
+    "job_link": "https://in.indeed.com/viewjob?jk=6bd3f40a1efd510b"
+  },
+  {
+    "id": "job-34e23d23",
+    "title": "Software Engineer II",
+    "company": "Equifax",
+    "location": "MH, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "* Pune\n* India\n* Technology\n* Full time\n* 11/5/2026\n* J00179986\n\n  \n\nTo play this video, please accept Functional & Personalisation cookies in your cookie preferences.\n\nManage Preferences\n\nEquifax is where you can power your possible. If you want to achieve your true potential...",
+    "job_link": "https://in.indeed.com/viewjob?jk=12160f721aee125b"
+  },
+  {
+    "id": "job-8af4b63e",
+    "title": "Software Development Engineer II",
+    "company": "Tesco",
+    "location": "KA, India",
+    "job_type": "Fulltime",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**About the role**  \n\nMy impact reaches across the team in which I work.\n\nI provide technical leadership of medium to large features, participating in their design and taking accountability for their delivery.\n\nI am comfortable implementing and shipping end-to-end stories and ...",
+    "job_link": "https://in.indeed.com/viewjob?jk=f75e181a0ca2ff21"
+  },
+  {
+    "id": "job-170b58d9",
+    "title": "Engineer",
+    "company": "Qualcomm",
+    "location": "KA, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Company:**\n------------\n\nQualcomm India Private Limited\n\n**Job Area:**\n-------------\n\nEngineering Group, Engineering Group > Software Engineering\n\n**General Summary:**\n\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-genera...",
+    "job_link": "https://in.indeed.com/viewjob?jk=c65d760e951fffa2"
+  },
+  {
+    "id": "job-724ab5e8",
+    "title": "Senior Developer",
+    "company": "HCLTech",
+    "location": "MH, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Job Summary**\n---------------\n\n**SAP Junior Frontend Developer (UI5/Fiori)** to join our India‑based SAP Test Automation & Process Innovation team.\n\nThis role supports the **design, development and maintenance of SAP UI5/Fiori applications**, ensures **consistent and intuiti...",
+    "job_link": "https://in.indeed.com/viewjob?jk=3b172d9c71741cdc"
+  },
+  {
+    "id": "job-3451986c",
+    "title": "Digital Design Engineer",
+    "company": "Texas Instruments",
+    "location": "KA, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Texas Instruments Incorporated (TI) is a global semiconductor design and manufacturing company that develops analog ICs and embedded processors. By employing the world’s brightest minds, TI creates innovations that shape the future of technology. TI is helping about 100,000 ...",
+    "job_link": "https://in.indeed.com/viewjob?jk=239ccc28d621237f"
+  },
+  {
+    "id": "job-61c8d913",
+    "title": "Specialist, Software Development & Engineering",
+    "company": "Charles Schwab",
+    "location": "TS, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "Hyderabad, Telangana\n\n**Requisition ID** 2026-128094 **Category** Engineering & Software Development **Position type** Regular\n\n  \n\n**Your opportunity**\n--------------------\n\n  \n  \n\nAt Charles Schwab, our purpose is simple: we champion client’s goals with passion and integrity...",
+    "job_link": "https://in.indeed.com/viewjob?jk=460dcb8d7e1e8c74"
+  },
+  {
+    "id": "job-ea54bbdf",
+    "title": "Senior Consultant | Functional / Manual Testing | Bengaluru | Engineering | Quality Engineering",
+    "company": "Deloitte",
+    "location": "KA, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "**Senior Consultant | Functional / Manual Testing | Bengaluru | Engineering | Quality Engineering**\n  \n• **Job requisition ID** : 116662\n  \n• **Location**: Bengaluru\n  \n• **Entity**: Deloitte Touche Tohmatsu India LLP\n\n**The team**\n\nDeloitte’s Technology & Transformation pract...",
+    "job_link": "https://in.indeed.com/viewjob?jk=416a281a6a121537"
+  },
+  {
+    "id": "job-f91afa36",
+    "title": "Software Engineer II – Integrations & API Connectivity",
+    "company": "Mastercard",
+    "location": "Navi Mumbai, Maharashtra, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4459987115"
+  },
+  {
+    "id": "job-ac639b98",
+    "title": "Sales Executive",
+    "company": "Wavestek Power Solutions",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4487330001"
+  },
+  {
+    "id": "job-d473b040",
+    "title": "Senior Engineer- Dot Net",
+    "company": "DNV",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4471460323"
+  },
+  {
+    "id": "job-9062fd71",
+    "title": "Senior Software Engineer",
+    "company": "PAR Technology",
+    "location": "Gurugram, Haryana, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4470310953"
+  },
+  {
+    "id": "job-3225a47a",
+    "title": "Software Engineering Specialist",
+    "company": "GE Vernova",
+    "location": "Bengaluru, Karnataka, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4488195867"
+  },
+  {
+    "id": "job-04a1c46f",
+    "title": "Software Engineer (C#, .NET Core, React JS, Azure, Retail Domain)",
+    "company": "Diebold Nixdorf",
+    "location": "Hyderabad, Telangana, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4486241258"
+  },
+  {
+    "id": "job-6040991a",
+    "title": "Full Stack .Net Developer",
+    "company": "Siemens Healthineers",
+    "location": "Pune District, Maharashtra, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4486987406"
+  },
+  {
+    "id": "job-e6523594",
+    "title": "Software Engineer II",
+    "company": "Mastercard",
+    "location": "Pune Division, Maharashtra, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4440190381"
+  },
+  {
+    "id": "job-29351ddf",
+    "title": "Associate - Software Development & Engineering- .NET",
+    "company": "Charles Schwab India",
+    "location": "Hyderabad, Telangana, India",
+    "job_type": "Nan",
+    "experience": "Not specified",
+    "salary": "nan - nan nan",
+    "posted_date": "Recently",
+    "description": "nan",
+    "job_link": "https://www.linkedin.com/jobs/view/4488028284"
   },
   {
     "id": "job-d27ada96",
@@ -48,18 +420,6 @@
     "job_link": "https://in.indeed.com/viewjob?jk=b659343260ac0a86"
   },
   {
-    "id": "job-bcdf39bc",
-    "title": "GeoSpatial Developer Java",
-    "company": "Cognizant",
-    "location": "TS, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Job summary**\n\nServe as a GeoSpatial Developer specializing in Java to design build and optimize spatially aware applications that run on cloud native platforms. Use AWS services Snowflake data warehousing and GenAI LLM integrations to deliver robust secure and scalable solu...",
-    "job_link": "https://in.indeed.com/viewjob?jk=3fea19f18933607d"
-  },
-  {
     "id": "job-b1a4d572",
     "title": "Electrical Design Engineer",
     "company": "Quest Global",
@@ -70,18 +430,6 @@
     "posted_date": "Recently",
     "description": "**Job Requirements**  \n\nAt Quest Global, it’s not just what we do but how and why we do it that makes us different. With over 25 years as an engineering services provider, we believe in the power of doing things differently to make the impossible possible. Our people are drive...",
     "job_link": "https://in.indeed.com/viewjob?jk=d8c2d991d4ef927d"
-  },
-  {
-    "id": "job-e5627203",
-    "title": "Associate Designer, PCB Layout Engineering",
-    "company": "Analog Devices",
-    "location": "KA, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Come join Analog Devices (ADI) – a place where Innovation meets Impact. For more than 55 years, Analog Devices has been inventing new breakthrough technologies that transform lives. At ADI you will work alongside the brightest minds to collaborate on solving complex problems t...",
-    "job_link": "https://in.indeed.com/viewjob?jk=e48165e4ebdbbff9"
   },
   {
     "id": "job-44709f42",
@@ -108,174 +456,6 @@
     "job_link": "https://in.indeed.com/viewjob?jk=e0d4480b01c8556c"
   },
   {
-    "id": "job-31a460f3",
-    "title": "Apprentice Software Engineer",
-    "company": "Perceptive",
-    "location": "TS, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "We’re on a mission to change the future of clinical research. At Perceptive, we help the\n  \nbiopharmaceutical industry bring medical treatments to the market, faster.\n  \nOur mission is to change the world but to do this, we need people like you.\n\n**Location:** **Perceptive, Bu...",
-    "job_link": "https://in.indeed.com/viewjob?jk=3a0893b89a7e4c5a"
-  },
-  {
-    "id": "job-eaa7baa1",
-    "title": "Full Stack Developer Software Engineer",
-    "company": "Procter & Gamble",
-    "location": "TS, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Location NANAKRAMGUDA, HYDERABAD, India Category Information Technology Job Id R000162157 Job Type Full time Experienced Professionals\n\n  \n\n**Job Location**\n\nHYDERABAD OFFICE APAC PSC GDOP\n\n**Job Description**\n\nP&G was founded over 180 years ago as a simple soap and candle com...",
-    "job_link": "https://in.indeed.com/viewjob?jk=83c137114d364d6a"
-  },
-  {
-    "id": "job-8cf49ea1",
-    "title": "Design & Sales Expert",
-    "company": "ASIAN Paints",
-    "location": "MH, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Location:\nNagpur, MH, IN\n\nAreas of Work: Sleek\n\nJob Id: 15800\n\n**Roles, Responsibilities and Deliverables:**\n\n1. Responsible for Kitchen and Wardrobe design for the client at the store\n\n2. Supporting the store manager/dealer to drive sales from the store. Achieving monthly sal...",
-    "job_link": "https://in.indeed.com/viewjob?jk=9e35d17fd25cbd95"
-  },
-  {
-    "id": "job-85e82ada",
-    "title": "Associate Software Engineer",
-    "company": "TriNet",
-    "location": "TS, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "TriNet is a leading provider of comprehensive human resources solutions for small to midsize businesses (SMBs). We enhance business productivity by enabling our clients to outsource their HR function to one strategic partner and allowing them to focus on operating and growing ...",
-    "job_link": "https://in.indeed.com/viewjob?jk=d182769e44cfa60c"
-  },
-  {
-    "id": "job-86c70c1c",
-    "title": "Software Engineer",
-    "company": "Optum",
-    "location": "TS, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to fe...",
-    "job_link": "https://in.indeed.com/viewjob?jk=3cb994bc23dba71d"
-  },
-  {
-    "id": "job-d61d26da",
-    "title": "Engineer",
-    "company": "Qualcomm",
-    "location": "KA, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Company:**\n------------\n\nQualcomm India Private Limited\n\n**Job Area:**\n-------------\n\nEngineering Group, Engineering Group > Software Engineering\n\n**General Summary:**\n\nAs a leading technology innovator, Qualcomm pushes the boundaries of what's possible to enable next-genera...",
-    "job_link": "https://in.indeed.com/viewjob?jk=c65d760e951fffa2"
-  },
-  {
-    "id": "job-b4182f21",
-    "title": "Software Engineer",
-    "company": "DeepIntent",
-    "location": "MH, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "DeepIntent is the leading healthcare marketing platform, purpose-built to help marketers plan, activate, and optimize data-driven campaigns with speed and precision. Trusted by the world's top healthcare brands and their agencies, DeepIntent uniquely unites media, identity, an...",
-    "job_link": "https://in.indeed.com/viewjob?jk=6bd3f40a1efd510b"
-  },
-  {
-    "id": "job-00829a7a",
-    "title": "Technical Lead",
-    "company": "HCLTech",
-    "location": "TS, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Job Summary**\n---------------\n\nJob description-Config Developer (Java)**Role: Java Developer****Location: Hyderabad****Qualifications**Around 5+ years of experience with software engineeringExperience with modern Java frameworksKnowledge of microservices architecture and des...",
-    "job_link": "https://in.indeed.com/viewjob?jk=418e7f746bd93086"
-  },
-  {
-    "id": "job-3f8ac0fc",
-    "title": "Graphic Designer",
-    "company": "Indegene",
-    "location": "KA, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "900000.0 - 900000.0 INR",
-    "posted_date": "Recently",
-    "description": "Date: 11/5/26\n\nDescription:\n\n**Company Description**\n\nWe are a technology-led healthcare solutions provider. We are driven by our purpose to enable healthcare organizations to be future-ready. We offer accelerated, global growth opportunities for talent that’s bold, industriou...",
-    "job_link": "https://in.indeed.com/viewjob?jk=2110a8dbfb21214d"
-  },
-  {
-    "id": "job-ce210c2c",
-    "title": "Software Engineer II",
-    "company": "Equifax",
-    "location": "MH, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "* Pune\n* India\n* Technology\n* Full time\n* 11/5/2026\n* J00179986\n\n  \n\nTo play this video, please accept Functional & Personalisation cookies in your cookie preferences.\n\nManage Preferences\n\nEquifax is where you can power your possible. If you want to achieve your true potential...",
-    "job_link": "https://in.indeed.com/viewjob?jk=12160f721aee125b"
-  },
-  {
-    "id": "job-223b9540",
-    "title": "Specialist, Software Development & Engineering",
-    "company": "Charles Schwab",
-    "location": "TS, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Hyderabad, Telangana\n\n**Requisition ID** 2026-128094 **Category** Engineering & Software Development **Position type** Regular\n\n  \n\n**Your opportunity**\n--------------------\n\n  \n  \n\nAt Charles Schwab, our purpose is simple: we champion client’s goals with passion and integrity...",
-    "job_link": "https://in.indeed.com/viewjob?jk=460dcb8d7e1e8c74"
-  },
-  {
-    "id": "job-8d01401d",
-    "title": "Software Engineer",
-    "company": "Microsoft",
-    "location": "KA, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Overview**\n\nMicrosoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  \n  \nMi...",
-    "job_link": "https://in.indeed.com/viewjob?jk=bf77b57145aef457"
-  },
-  {
-    "id": "job-e870fe3a",
-    "title": "Senior Consultant | Functional / Manual Testing | Bengaluru | Engineering | Quality Engineering",
-    "company": "Deloitte",
-    "location": "KA, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Senior Consultant | Functional / Manual Testing | Bengaluru | Engineering | Quality Engineering**\n  \n• **Job requisition ID** : 116662\n  \n• **Location**: Bengaluru\n  \n• **Entity**: Deloitte Touche Tohmatsu India LLP\n\n**The team**\n\nDeloitte’s Technology & Transformation pract...",
-    "job_link": "https://in.indeed.com/viewjob?jk=416a281a6a121537"
-  },
-  {
-    "id": "job-e9ebc5d9",
-    "title": "Python Developer",
-    "company": "Wipro",
-    "location": "TS, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Job Title: Python Developer\n\nCity: Hyderabad\n\nState/Province: Telangana\n\nPosting Start Date: 11/5/26\n\nWipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most ...",
-    "job_link": "https://in.indeed.com/viewjob?jk=5fc67cbf2d4e2016"
-  },
-  {
     "id": "job-74403636",
     "title": "QA Analyst",
     "company": "Barclays",
@@ -286,66 +466,6 @@
     "posted_date": "Recently",
     "description": "Date live: 11/05/2026\n\nBusiness Area: Functions Technology\n\nArea of Expertise: Technology\n\nContract: Permanent\n\nReference Code: JR-0000137359\n\n  \n\nJoin us as a QA Analyst at Barclays where you will spearhead the evolution of our infrastructure and deployment pipelines, driving...",
     "job_link": "https://in.indeed.com/viewjob?jk=d4b114b38e5a2017"
-  },
-  {
-    "id": "job-f3c206fe",
-    "title": "Digital Design Engineer",
-    "company": "Texas Instruments",
-    "location": "KA, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Texas Instruments Incorporated (TI) is a global semiconductor design and manufacturing company that develops analog ICs and embedded processors. By employing the world’s brightest minds, TI creates innovations that shape the future of technology. TI is helping about 100,000 ...",
-    "job_link": "https://in.indeed.com/viewjob?jk=239ccc28d621237f"
-  },
-  {
-    "id": "job-84098069",
-    "title": "Software Engineer II – Integrations & API Connectivity",
-    "company": "Mastercard",
-    "location": "Navi Mumbai, Maharashtra, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4459987115"
-  },
-  {
-    "id": "job-89e43924",
-    "title": "Sales Executive",
-    "company": "Wavestek Power Solutions",
-    "location": "Chennai, Tamil Nadu, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4487330001"
-  },
-  {
-    "id": "job-54417a76",
-    "title": "Senior Engineer- Dot Net",
-    "company": "DNV",
-    "location": "Chennai, Tamil Nadu, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4471460323"
-  },
-  {
-    "id": "job-86d4bd89",
-    "title": "Senior Software Engineer",
-    "company": "PAR Technology",
-    "location": "Gurugram, Haryana, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4470310953"
   },
   {
     "id": "job-dccf79c6",
@@ -394,42 +514,6 @@
     "posted_date": "Recently",
     "description": "nan",
     "job_link": "https://www.linkedin.com/jobs/view/4471030721"
-  },
-  {
-    "id": "job-9ce17da8",
-    "title": "Software Engineering Specialist",
-    "company": "GE Vernova",
-    "location": "Bengaluru, Karnataka, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4488195867"
-  },
-  {
-    "id": "job-3f67f1ad",
-    "title": "Software Engineer (C#, .NET Core, React JS, Azure, Retail Domain)",
-    "company": "Diebold Nixdorf",
-    "location": "Hyderabad, Telangana, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4486241258"
-  },
-  {
-    "id": "job-b2f8a27b",
-    "title": "Full Stack .Net Developer",
-    "company": "Siemens Healthineers",
-    "location": "Pune District, Maharashtra, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4486987406"
   },
   {
     "id": "job-cdcf77df",
@@ -492,18 +576,6 @@
     "job_link": "https://www.linkedin.com/jobs/view/4486209783"
   },
   {
-    "id": "job-45dd9ab5",
-    "title": "Software Engineer II",
-    "company": "Mastercard",
-    "location": "Pune Division, Maharashtra, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4440190381"
-  },
-  {
     "id": "job-8660a93c",
     "title": "Sales Executive",
     "company": "SYNCHRO ELECTRICALS PVT. LTD.",
@@ -514,18 +586,6 @@
     "posted_date": "Recently",
     "description": "nan",
     "job_link": "https://www.linkedin.com/jobs/view/4478239973"
-  },
-  {
-    "id": "job-5f06233f",
-    "title": "Associate - Software Development & Engineering- .NET",
-    "company": "Charles Schwab India",
-    "location": "Hyderabad, Telangana, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "nan",
-    "job_link": "https://www.linkedin.com/jobs/view/4488028284"
   },
   {
     "id": "job-91368abc",
@@ -588,18 +648,6 @@
     "job_link": "https://in.indeed.com/viewjob?jk=9fc1f08c8b0aeeda"
   },
   {
-    "id": "job-23f1b0f8",
-    "title": "Software Engineer",
-    "company": "GE HealthCare",
-    "location": "KA, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Job Description Summary**\n===========================\n\nAs a Software Engineer you will be responsible for designing, building, delivering and maintaining next generation platform solutions. Working in the areas of software applications and platform.\n  \n  \nGE Healthcare is a ...",
-    "job_link": "https://in.indeed.com/viewjob?jk=cd096345106c89f8"
-  },
-  {
     "id": "job-c2d2b586",
     "title": "Graduate Engineer Trainee",
     "company": "GE HealthCare",
@@ -636,30 +684,6 @@
     "job_link": "https://in.indeed.com/viewjob?jk=73469960d958c309"
   },
   {
-    "id": "job-395459ab",
-    "title": "UI/UX Technical Architect",
-    "company": "HCLTech",
-    "location": "TN, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Job Summary**\n---------------\n\nThe Technical Architect for UI/UX Designs is responsible for overseeing the technical aspects of UI/UX design projects. They will collaborate with internal teams and clients to ensure the successful delivery of visually appealing and user-frien...",
-    "job_link": "https://in.indeed.com/viewjob?jk=285423b29806aa23"
-  },
-  {
-    "id": "job-52f0ec95",
-    "title": "Senior Developer",
-    "company": "HCLTech",
-    "location": "MH, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**Job Summary**\n---------------\n\n**SAP Junior Frontend Developer (UI5/Fiori)** to join our India‑based SAP Test Automation & Process Innovation team.\n\nThis role supports the **design, development and maintenance of SAP UI5/Fiori applications**, ensures **consistent and intuiti...",
-    "job_link": "https://in.indeed.com/viewjob?jk=3b172d9c71741cdc"
-  },
-  {
     "id": "job-c619abc1",
     "title": "Platform Engineer I",
     "company": "HCLTech",
@@ -682,18 +706,6 @@
     "posted_date": "Recently",
     "description": "Date live: 11/04/2026\n\nBusiness Area: Customer Digital and Data\n\nArea of Expertise: Technology\n\nContract: Permanent\n\nReference Code: JR-0000088850\n\n  \n\nJoin us as a Java/Python AWS Engineer at Barclays, where you'll take part in the evolution of our digital landscape, driving ...",
     "job_link": "https://in.indeed.com/viewjob?jk=9848b2dc5272bd9c"
-  },
-  {
-    "id": "job-cf208260",
-    "title": "Software Development Engineer II",
-    "company": "Tesco",
-    "location": "KA, India",
-    "job_type": "Fulltime",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "**About the role**\n\n**Let’s {code} the <future of shopping> together at {Tesco Technology}!**\n\n**Job Description**\n\nAs a **React Native Software Development Engineer**, you’ll be working in an agile team of industry leading engineers upon Tesco’s customer facing mobile applica...",
-    "job_link": "https://in.indeed.com/viewjob?jk=93258d605a4e5955"
   },
   {
     "id": "job-cf9ca246",
@@ -1186,17 +1198,5 @@
     "posted_date": "Recently",
     "description": "Summary\n  \n  \nAt Apple, we rely on our employees diverse set of backgrounds and perspectives to champion innovation through extraordinary ideas to surprise and delight our customers. These ideas can come from anywhere. Will that next phenomenal idea come from you? The global e...",
     "job_link": "https://in.indeed.com/viewjob?jk=b324fb3741d4a735"
-  },
-  {
-    "id": "job-f8ccc1ba",
-    "title": "Systems Electronic Integration Engineer (HWEE)",
-    "company": "Apple",
-    "location": "KA, India",
-    "job_type": "Nan",
-    "experience": "Not specified",
-    "salary": "nan - nan nan",
-    "posted_date": "Recently",
-    "description": "Summary\n  \n  \nImagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. The success we are striving...",
-    "job_link": "https://in.indeed.com/viewjob?jk=578c2f7f462b7be4"
   }
 ]
